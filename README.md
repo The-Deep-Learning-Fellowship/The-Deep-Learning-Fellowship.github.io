@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+### Introduction
 
-You can use the [editor on GitHub](https://github.com/The-Deep-Learning-Fellowship/The-Deep-Learning-Fellowship.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Come and join a fellowship of Deep Learning and AI enthusiasts in their quest to keep up with the latest developments in
+artificial intelligence and cloud computing! We recently restarted in-person meetups and are 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This group is for intermediate and advanced practitioners of deep learning utilizing TensorFlow. Our plan is to organize
+a weekly or bi-weekly event in which we will collectively analyze the latest and seminal research papers in the field of
+AI. We will be covering anything from computer vision, natural language processing to deep reinforcement learning and
+Bayesian networks. These meetups are intended to be an open discussion of the selected paper, related research and
+relevant model coding.
 
-### Markdown
+If you get a chance to read the paper before the meetup that is great. If not don't worry. We will be doing a detailed
+presentation covering the findings outlined in the paper, so if you don't get a chance to read it you can still come to
+the session and join in the discussion.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our goal is to create an interactive study group where we collectively choose the research papers that we'd like to dig
+into and share the lessons we learn from attempting to execute the architecture in our own applications. Your feedback
+will be valuable in determining the structure and content of the event in the future.
 
-```markdown
-Syntax highlighted code block
+You can find us on [Github](https://github.com/The-Deep-Learning-Fellowship), [Meetup](https://www.meetup.com/fr-FR/gdgyyc/events/past/) and [Slack](gdgyyc.slack.com)
 
-# Header 1
-## Header 2
-### Header 3
+### Next presentation
 
-- Bulleted
-- List
+TBD
 
-1. Numbered
-2. List
+### Previous presentations
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/The-Deep-Learning-Fellowship/The-Deep-Learning-Fellowship.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.date }} - {{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

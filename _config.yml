@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: The Calgary Deep Learning Fellowship
+description: A group of ML enthusiasts discussing academic papers and code implementation in Calgary, Alberta.
+logo: /assets/CDLF.jpeg
+show_downloads: False
