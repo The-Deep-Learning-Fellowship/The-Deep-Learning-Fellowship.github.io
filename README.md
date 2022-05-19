@@ -17,7 +17,7 @@ Our goal is to create an interactive study group where we collectively choose th
 into and share the lessons we learn from attempting to execute the architecture in our own applications. Your feedback
 will be valuable in determining the structure and content of the event in the future.
 
-You can find us on [Github](https://github.com/The-Deep-Learning-Fellowship), [Meetup](https://www.meetup.com/fr-FR/gdgyyc/events/past/) and [Slack](gdgyyc.slack.com)
+You can find us on [Github](https://github.com/The-Deep-Learning-Fellowship), [Meetup](https://www.meetup.com/fr-FR/gdgyyc/events/past/) and [Slack](https://gdgyyc.slack.com/)
 
 ### Next presentation
 
