@@ -1,7 +1,7 @@
 ### Introduction
 
 Come and join a fellowship of Deep Learning and AI enthusiasts in their quest to keep up with the latest developments in
-artificial intelligence and cloud computing! We recently restarted in-person meetups and are 
+artificial intelligence and cloud computing ! We recently restarted in-person events after a long break. 
 
 This group is for intermediate and advanced practitioners of deep learning utilizing TensorFlow. Our plan is to organize
 a weekly or bi-weekly event in which we will collectively analyze the latest and seminal research papers in the field of
