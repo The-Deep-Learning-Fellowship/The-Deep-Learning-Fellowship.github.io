@@ -1,8 +1,9 @@
 ---
 layout: post 
-title:  "Presentation - UCTransNet"
-date: 2022-05-18 17:30:00 -0000
+title:  "UCTransNet"
+date: 2022-05-18
 author: Ted
+categories: presentation
 tags: U-Net semantic segmentation
 ---
 
@@ -18,7 +19,7 @@ This paper has been presented on May 18th 2020 at the CDLF.
 
 ## Paper
 
-The publication can be found [on Arxiv](https://arxiv.org/abs/2109.04335)
+The publication can be found [on Arxiv.](https://arxiv.org/abs/2109.04335)
 
 ## Presentation slides 
 
@@ -34,7 +35,7 @@ The publication can be found [on Arxiv](https://arxiv.org/abs/2109.04335)
 
 ## Code implementation
 
-[Github](https://github.com/McGregorWwww/UCTransNet)
+The official implementation of this model is available on [Github](https://github.com/McGregorWwww/UCTransNet)
 
 ## Reference
 
