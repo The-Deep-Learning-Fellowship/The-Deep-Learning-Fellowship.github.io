@@ -13,7 +13,7 @@ The [U-Net model](https://paperswithcode.com/method/u-net) (Ronneberger et al) i
 applied to the medical imaging domain.
 
 [UCTransnet](https://paperswithcode.com/method/uctransnet) : Rethinking the Skip Connections in U-Net from a Channel-wise Perspective with Transformer implements a
-mechanism to balance the contributions of the original skip connections of the original model. 
+mechanism to balance the contributions of the skip connections of the original model. 
 
 This paper has been presented on May 18th 2020 at the CDLF.
 
