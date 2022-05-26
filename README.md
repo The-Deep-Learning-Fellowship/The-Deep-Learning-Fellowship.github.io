@@ -1,5 +1,7 @@
 ### Introduction
 
+Check the page [here](https://the-deep-learning-fellowship.github.io/).
+
 Come and join a fellowship of Deep Learning and AI enthusiasts in their quest to keep up with the latest developments in
 artificial intelligence and cloud computing ! We recently restarted in-person events after a long break. 
 
@@ -17,18 +19,6 @@ Our goal is to create an interactive study group where we collectively choose th
 into and share the lessons we learn from attempting to execute the architecture in our own applications. Your feedback
 will be valuable in determining the structure and content of the event in the future.
 
-You can find us on [Github](https://github.com/The-Deep-Learning-Fellowship), [Meetup](https://www.meetup.com/fr-FR/gdgyyc/events/past/) and [Slack](https://gdgyyc.slack.com/)
+You can find us on [Github](https://github.com/The-Deep-Learning-Fellowship), [Meetup](https://www.meetup.com/fr-FR/meetup-group-optfgvkc/)) and [Slack](https://gdgyyc.slack.com/)
 
-### Next presentation
 
-TBD
-
-### Previous presentations
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.date | date: "%-d %B %Y" }} - {{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
