@@ -23,7 +23,7 @@ The publication can be found [on Arxiv.](https://arxiv.org/abs/2109.04335)
 
 ## Slides 
 
-- Pdf version of the slides presented [UCTRANSNET: RETHINKING THE SKIP CONNECTIONS IN U-NET FROM A  CHANNEL-WISE PERSPECTIVE WITH TRANSFORMER, PRESENTED BY TED EDMONDS](../assets/presentations/CDLF_UCTransNet_Presentation.pdf)
+- Pdf version of the slides -  [UCTRANSNET: RETHINKING THE SKIP CONNECTIONS IN U-NET FROM A  CHANNEL-WISE PERSPECTIVE WITH TRANSFORMER, PRESENTED BY TED EDMONDS](/assets/presentations/CDLF_UCTransNet_Presentation.pdf)
 
 ## Key concepts
 
