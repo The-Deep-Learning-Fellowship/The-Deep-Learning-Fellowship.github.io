@@ -21,11 +21,11 @@ This paper has been presented on May 18th 2020 at the CDLF.
 
 The publication can be found [on Arxiv.](https://arxiv.org/abs/2109.04335)
 
-## Presentation slides 
+## Slides 
 
-- 
+- Pdf version of the slides presented [UCTRANSNET: RETHINKING THE SKIP CONNECTIONS IN U-NET FROM A  CHANNEL-WISE PERSPECTIVE WITH TRANSFORMER, PRESENTED BY TED EDMONDS](../assets/presentations/CDLF_UCTransNet_Presentation.pdf)
 
-## Key notions
+## Key concepts
 
 - Encoder / Decoder
 - Attention mechanism
